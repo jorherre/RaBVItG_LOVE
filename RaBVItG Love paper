@@ -1,4 +1,4 @@
-#RABVITG for estimating parameters knowing the state variable
+
 # Load necessary libraries
 library(stats)
 library(ggplot2)
